@@ -1,30 +1,71 @@
-Hi, I'm Haggla Mensah Agyei  
+ # Hi, I'm Haggla Mensah Agyei 
 
-I’m a BSc Information Technology
-student at the University of Energy and Natural Resources (UENR), Sunyani – Ghana.  
-Passionate about software development, database systems, and UI/UX design.  
-Currently working on projects in VB.Net, PHP, MySQL, and Flutter.  
+I'm a final-year BSc Information Technology student at the
+University of Energy and Natural Resources (UENR), Ghana.
+
+My interests lie at the intersection of cybersecurity, privacy,
+software security, and secure computing systems. I enjoy building
+software systems and exploring how security, privacy, and system
+design affect their reliability and real-world use.
+
+# Research Interests
+
+- Cybersecurity & Privacy
+- Mobile & Financial-System Security
+- Software Security
+- Secure Computing Systems
+- Cloud & Distributed Systems
+- Data-Driven Security
+
+# Technical Skills
+
+Languages: Python, C++, JavaScript, PHP, Dart, VB.NET
+
+Frameworks & Tools: Flutter, Git, GitHub, React, Figma, Canva,
+Adobe Photoshop
+
+Databases: MySQL, Microsoft Access
+
+**Systems & Networking:** Computer Networks, System Administration,
+Cloud Computing
+
+# Selected Projects
+
+- Smart Internship Placement and Logbook Management System - Web-based system for managing
+  student internship processes.
+
+- VoxUnite — Digital voting platform focused on authentication,
+  privacy, and double-vote prevention.
+
+- Mobile Money Transaction System** — Transaction-processing system
+  developed around mobile-money workflows.
+
+- Charity Payment System - Payment system incorporating
+  cryptographic webhook verification.
 
 
-- Languages: PHP, VB.Net, Python, Dart, JavaScript, C++ 
-- Frameworks & Tools: Flutter, Git/GitHub  
-- Databases: MySQL, Microsoft Access  
-- Design: Figma, Canva, Adobe Photoshop  
+# Education
 
+**BSc Information Technology**  
+University of Energy and Natural Resources (UENR), Ghana  
+Expected 2026
 
-## Currently Learning
-- Mobile App Development with Flutter and Android Studio
-- 
-- Modern Web Development (JavaScript, React)  
-- Advanced Database Management  
+# Currently Exploring
 
----
+- Cybersecurity & Privacy
+- Software Security
+- Secure Systems
+- Mobile and Financial-System Security
+- Modern Web Development
+- Cloud Computing
 
-## Connect with Me
-- 📧 Email:hagglaagyei@gmail.com  
-- 💼 LinkedIn: [Haggla Mensah Agyei](https://www.linkedin.com)
--  Twitter: [@bighaggla](https://x.com/bighaggla?s=21)
+# Connect With Me
 
----
+- 📧 Email: hagglaagyei@gmail.com
+- (mailto:hagglaagyei@gmail.com)
+- 💼 LinkedIn: [Haggla Mensah Agyei](https://www.linkedin.com/haggla)
+- 🌐 Portfolio: haggla.vercel.app
+- 🐦 X: @bighaggla (https://x.com/bighaggla)
+
 
 BELIEVE !!!
