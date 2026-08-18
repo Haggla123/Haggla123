@@ -1,4 +1,4 @@
- # Hi, I'm Haggla Mensah Agyei 
+# Hi, I'm Haggla Mensah Agyei 
 
 I'm a final-year BSc Information Technology student at the
 University of Energy and Natural Resources (UENR), Ghana.
@@ -21,34 +21,34 @@ design affect their reliability and real-world use.
 
 Languages: Python, C++, JavaScript, PHP, Dart, VB.NET
 
-Frameworks & Tools: Flutter, Git, GitHub, React, Figma, Canva,
-Adobe Photoshop
+- Frameworks & Tools: Flutter, Git, GitHub, React
 
-Databases: MySQL, Microsoft Access
+- Databases: MySQL, Microsoft Access
 
-**Systems & Networking:** Computer Networks, System Administration,
+- Design: Figma, Canva, Adobe Photoshop
+
+- Systems & Networking: Computer Networks, System Administration,
 Cloud Computing
 
 # Selected Projects
 
-- Smart Internship Placement and Logbook Management System - Web-based system for managing
+- VoxUnite — Digital voting platform focused on voter
+  verification, privacy, and double-vote prevention.
+
+- Mobile Money Transaction System — Transaction-processing
+  system developed around mobile-money workflows.
+
+- Charity Payment System — Payment system integrating online
+  payment processing.
+
+- Internship Management System — Web-based system for managing
   student internship processes.
-
-- VoxUnite — Digital voting platform focused on authentication,
-  privacy, and double-vote prevention.
-
-- Mobile Money Transaction System** — Transaction-processing system
-  developed around mobile-money workflows.
-
-- Charity Payment System - Payment system incorporating
-  cryptographic webhook verification.
-
 
 # Education
 
-**BSc Information Technology**  
+BSc Information Technology  
 University of Energy and Natural Resources (UENR), Ghana  
-Expected 2026
+Expected December 2026
 
 # Currently Exploring
 
@@ -61,11 +61,11 @@ Expected 2026
 
 # Connect With Me
 
-- 📧 Email: hagglaagyei@gmail.com
-- (mailto:hagglaagyei@gmail.com)
-- 💼 LinkedIn: [Haggla Mensah Agyei](https://www.linkedin.com/haggla)
-- 🌐 Portfolio: haggla.vercel.app
-- 🐦 X: @bighaggla (https://x.com/bighaggla)
+- Email: [hagglaagyei@gmail.com](mailto:hagglaagyei@gmail.com)
+- LinkedIn: [Haggla Mensah Agyei](https://www.linkedin.com/in/haggla)
+- Portfolio: (https://haggla.vercel.app)
+- X: [@bighaggla](https://x.com/bighaggla)
+
 
 
 BELIEVE !!!
