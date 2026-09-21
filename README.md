@@ -32,16 +32,16 @@ Cloud Computing
 
 # Selected Projects
 
-- VoxUnite — Digital voting platform focused on voter
+- VoxUnite - Digital voting platform focused on voter
   verification, privacy, and double-vote prevention.
 
-- Mobile Money Transaction System — Transaction-processing
+- Mobile Money Transaction System - Transaction-processing
   system developed around mobile-money workflows.
 
-- Charity Payment System — Payment system integrating online
+- Charity Payment System - Payment system integrating online
   payment processing.
 
-- Internship Management System — Web-based system for managing
+- Internship Management System - Web-based system for managing
   student internship processes.
 
 # Education
