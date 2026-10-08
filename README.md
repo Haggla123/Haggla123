@@ -65,6 +65,6 @@ University of Energy and Natural Resources (UENR), Ghana
 
 - Portfolio: https://haggla.vercel.app
 - LinkedIn: https://www.linkedin.com/in/haggla
-- ORCID: 0009-0009-6952-3989
+- ORCID: https://orcid.org/0009-0009-6952-3989
 - ResearchGate: https://www.researchgate.net/profile/Haggla-Agyei
 - Email: hagglaagyei@gmail.com
