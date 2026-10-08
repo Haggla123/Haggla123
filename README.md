@@ -1,71 +1,70 @@
-# Hi, I'm Haggla Mensah Agyei 
+# Hi, I'm Haggla Mensah Agyei
 
-I'm a final-year BSc Information Technology student at the
+## Software Engineer & Researcher in Dependable Computing
+
+I am a BSc Information Technology graduate from the
 University of Energy and Natural Resources (UENR), Ghana.
 
-My interests lie at the intersection of cybersecurity, privacy,
-software security, and secure computing systems. I enjoy building
-software systems and exploring how security, privacy, and system
-design affect their reliability and real-world use.
+I am interested in building and studying digital systems
+that people can genuinely depend on.
 
-# Research Interests
+My interests span:
 
-- Cybersecurity & Privacy
-- Mobile & Financial-System Security
-- Software Security
-- Secure Computing Systems
-- Cloud & Distributed Systems
-- Data-Driven Security
+- Dependable Software Engineering
+- Software Reliability & Testing
+- Distributed & Cloud Systems
+- Trustworthy AI-Enabled Software Systems
+- Secure & Maintainable Software
+- Software Quality & Program Analysis
 
-# Technical Skills
+## Selected Work
 
-Languages: Python, C++, JavaScript, PHP, Dart, VB.NET
+### InternTrack
+Web-based internship placement, logbook, supervision and
+assessment system developed for UENR.
 
-- Frameworks & Tools: Flutter, Git, GitHub, React
+The project applied Design Science Research and included
+functional, integration, compatibility, performance and
+formative usability evaluation.
 
-- Databases: MySQL, Microsoft Access
+Research artifact:
+https://doi.org/10.5281/zenodo.23241624
 
-- Design: Figma, Canva, Adobe Photoshop
+### VoxUnite
+Full-stack digital voting platform involving OTP
+authentication, JWT sessions, RBAC, election lifecycle
+management, audit logging, analytics and real-time
+communication.
 
-- Systems & Networking: Computer Networks, System Administration,
-Cloud Computing
+### Charity Foundation Payment System
+Payment backend integrating Paystack with webhook
+verification and transaction-validation workflows.
 
-# Selected Projects
+### Mobile Money Simulator
+C++ educational application implementing authentication,
+PIN management, transfers, persistent balances and
+transaction history.
 
-- VoxUnite - Digital voting platform focused on voter
-  verification, privacy, and double-vote prevention.
+## Research Direction
 
-- Mobile Money Transaction System - Transaction-processing
-  system developed around mobile-money workflows.
+My work is motivated by a central question:
 
-- Charity Payment System - Payment system integrating online
-  payment processing.
+> How can we design digital systems that people can genuinely depend on?
 
-- Internship Management System - Web-based system for managing
-  student internship processes.
+I am particularly interested in reliability, security,
+maintainability, usability and predictable behaviour in
+software systems.
 
-# Education
+## Education
 
-BSc Information Technology  
+**BSc Information Technology**  
 University of Energy and Natural Resources (UENR), Ghana  
-Expected December 2026
+**2026**
 
-# Currently Exploring
+## Connect
 
-- Cybersecurity & Privacy
-- Software Security
-- Secure Systems
-- Mobile and Financial-System Security
-- Modern Web Development
-- Cloud Computing
-
-# Connect With Me
-
-- Email: [hagglaagyei@gmail.com](mailto:hagglaagyei@gmail.com)
-- LinkedIn: [Haggla Mensah Agyei](https://www.linkedin.com/in/haggla)
-- Portfolio: (https://haggla.vercel.app)
-- X: [@bighaggla](https://x.com/bighaggla)
-
-
-
-BELIEVE !!!
+- Portfolio: https://haggla.vercel.app
+- LinkedIn: https://www.linkedin.com/in/haggla
+- ORCID: 0009-0009-6952-3989
+- ResearchGate: https://www.researchgate.net/profile/Haggla-Agyei
+- Email: hagglaagyei@gmail.com
